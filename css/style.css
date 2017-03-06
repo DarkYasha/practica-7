@@ -1,0 +1,30 @@
+header{
+    background-color: lightgray;
+    text-align: center;
+    font-family: aharoni;
+    font-size: 20px;
+}
+
+h1{
+    margin: 0px;
+    color: midnightblue;
+}
+
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: aparajita;
+    font-size: 20px;
+}
+
+section{
+    display: inline-block;
+}
+
+.education{
+    margin-left: 60px;
+}
+
+h2{
+    color: darkred;
+}
